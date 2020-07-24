@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 covid19 = COVID19Py.COVID19()
-TOKEN = '1341223648:AAFx7B-P-q-OxbAJqMoL29q1MLn9gNZahfk'
+TOKEN = '##############################'
 bot = telebot.TeleBot(TOKEN)
 
 
